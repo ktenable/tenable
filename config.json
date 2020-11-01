@@ -58,8 +58,8 @@
         {
             "algo": "rx/0",
             "coin": null,
-            "url": "xmr-us-east1.nanopool.org:14444",
-            "user": "42R8J9MQY4cSvoQMNjgw6JXS4Go7Rs3T75Fs85jXywimMrr4fEhLkUnf7n53hcWW7YDkaXWnfqn9i4WN1NwLGqXm4bwpXAH.C-NETS20/ktenablelxmrinux@protonmail.com",
+            "url": "xmr.viabtc.com:80",
+            "user": "tenable",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
