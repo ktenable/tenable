@@ -56,7 +56,7 @@
     "log-file": null,
     "pools": [
         {
-            "algo": "rx/0",
+            "algo": null,
             "coin": null,
             "url": "xmr.viabtc.com:80",
             "user": "tenable",
