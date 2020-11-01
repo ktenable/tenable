@@ -4,6 +4,9 @@
 # Source function library.
 . /etc/init.d/functions
 
+# for add use chkconfig --add daemon
+#chkconfig: 345 20 80
+
 start() {
         echo -e "Starting daemon service... \n"
         /bin/daemon
